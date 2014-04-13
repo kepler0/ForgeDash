@@ -1,0 +1,9 @@
+apply plugin: 'scala'
+apply from: 'gradle/play.gradle'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
